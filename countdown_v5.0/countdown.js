@@ -44,7 +44,7 @@
 //
 // -----------------------------------------
 
-var CountdownImageFolder = "https://github.com/TuulaP/jskok/tree/master/countdown_v5.0/images/"; 
+var CountdownImageFolder = "https://github.com/TuulaP/jskok/blob/master/countdown_v5.0/images/"; 
 // "images/"; // Should have trailing slash.
 // NOTE: The countdown script assumes the folder is relative to the countdown.js script file.
 // When CountdownImageFolder starts with a slash "/", or "http" the script will not assume the 
